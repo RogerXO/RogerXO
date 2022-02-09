@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 📚 I’m currently learning React and starting my back-end studies
-- 👯 I’m looking for web developer jobs
+- 🧠 HTML / CSS / JavaScript / Bootstrap
+- 📚 I’m currently learning React and starting my back-end studies.
+- 👯 I’m looking for web developer jobs (front-end, back-end or full-stack)
 
 <div>
   <a href="https://github.com/RogerXO">
