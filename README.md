@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🧠 HTML / CSS / JavaScript / Bootstrap
+- 🧠 HTML / CSS / JavaScript / Bootstrap / TypeScript
 - 📚 I’m currently learning React and starting my back-end studies.
 - 👯 I’m looking for web developer jobs (front-end, back-end or full-stack)
 
