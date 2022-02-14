@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🧠 HTML / CSS / JavaScript / Bootstrap / TypeScript
-- 📚 I’m currently learning Angular.
-- 👯 I’m looking for web developer jobs (front-end)
+- 📚 I’m currently studying Angular.
+- 👯 I’m looking for front end web developer jobs
 
 <div>
   <a href="https://github.com/RogerXO">
