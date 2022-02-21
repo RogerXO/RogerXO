@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🧠 HTML / CSS / JavaScript / Bootstrap / TypeScript
-- 📚 I’m currently studying Angular.
+- 📚 I’m currently learning React and starting my Back-end studies
 - 👯 I’m looking for front end web developer jobs
 
 <div>
