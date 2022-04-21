@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🧠 HTML / CSS / JavaScript / TypeScript / React
-- 📚 I’m currently learning React and starting my Back-end studies (C#)
-- 👯 I’m looking for front end web developer jobs
+- 🧠 HTML, CSS, Responsividade, Bootstrap, JavaScript, Git, GitHub, TypeScript, ReactJS, Redux, Rest-API, JSON, Scrum, C#, .Net
+- 📚 I’m currently studying C#, .NET
+- 👩‍💻 All my codes are in English.
+-  Intermediate English
+- 👯 I’m looking for front-end, back-end or full-stack web developer jobs
 
 <div>
   <a href="https://github.com/RogerXO">
