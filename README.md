@@ -3,7 +3,7 @@
 - 📚 I’m currently studying C#, .NET
 - 👨🏾‍💻 All my codes are in English.
 - 👂🏾 Intermediate English
-- 👯 I’m looking for front-end, back-end or full-stack web developer jobs
+- 👯 I’m looking for front-end, back-end or full-stack junior web developer jobs
 
 <!-- <div>
   <a href="https://github.com/RogerXO">
