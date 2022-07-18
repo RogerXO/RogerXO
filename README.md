@@ -1,9 +1,8 @@
 ### Hi there 👋
-- 🧠 HTML, CSS, Responsividade, Bootstrap, JavaScript, Git, GitHub, TypeScript, ReactJS, Redux, Rest-API, JSON, Scrum, C#, .Net
+- 🧠 HTML, CSS, Responsividade, Bootstrap, JavaScript, Git, GitHub, TypeScript, ReactJS, Redux, Context, Rest-API, JSON, Styled-components, Tailwind, Scrum, C#, .Net, PostgreSQL
 - 📚 I’m currently studying C#, .NET
-- 👨🏾‍💻 All my codes are in English.
 - 👂🏾 Intermediate English
-- 👯 I’m looking for front-end, back-end or full-stack junior web developer jobs
+- 👯 I’m looking for front-end junior jobs
 
 <!-- <div>
   <a href="https://github.com/RogerXO">
