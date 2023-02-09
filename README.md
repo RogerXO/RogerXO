@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🧠 HTML, CSS, Responsividade, Bootstrap, JavaScript, Git, GitHub, TypeScript, ReactJS, Redux, Context, Rest-API, JSON, Styled-components, Tailwind, Scrum, C#, .Net, PostgreSQL
+- 🧠 HTML, CSS, Bootstrap, JavaScript, TypeScript, Git, GitHub,  ReactJS, Redux, ContextAPI, Rest-API, JSON, Styled-components, Chakra-UI, Tailwind, Scrum, C# .Net, PostgreSQL
 - 📚 I’m currently studying C#, .NET
 - 👂🏾 Intermediate English
 - 👯 I’m looking for front-end junior jobs
